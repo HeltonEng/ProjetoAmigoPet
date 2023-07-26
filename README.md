@@ -15,6 +15,28 @@ Na aplicação estou utilizando o Android Studio e linguagem Java e o Firebase p
 - No momento o desnvolvimento está como aparece na imagem a seguir.
 <img src="img/image.png">
 
+# Telas da Aplicação
+- Login
+<img width="50%" src="img/Login.jpg">
+
+- Cadastro de novo Usuario
+<img width="50%" src="img/Registro.jpg">
+
+- Feed
+<img width="50%" src="img/Feed.jpg">
+
+- Pesquisar Usuarios
+<img width="50%" src="img/Busca.jpg">
+
+- Criar nova postagem
+<img width="50%" src="img/Postar.jpg">
+
+- Perfil
+<img width="50%" src="img/Perfil.jpg">
+
+- Editar Perfil
+<img width="50%" src="img/EditarPerfil.jpg">
+
 # Em execução
 - No momento estou trabalhando no desenvolvimento e implantação de funcionalidades fo feed conforme evolução será atualizado aqui.
 
