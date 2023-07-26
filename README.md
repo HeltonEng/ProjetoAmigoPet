@@ -1,4 +1,4 @@
-# Projeto AmigoPet
+# AmigoPet
 
 Olá a todos, hoje eu gostaria de apresentar a vocês o nosso novo aplicativo de adoção de animais. Nosso objetivo é ajudar as pessoas a encontrar animais de estimação para adotar e reduzir o número de animais abandonados nas ruas. 
 
